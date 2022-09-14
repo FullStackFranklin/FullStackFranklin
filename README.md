@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>" width="100"/>
+  <img src = "https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG" width="100"/>
 </div>
 
 
