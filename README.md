@@ -1,11 +1,6 @@
 ![image](https://user-images.githubusercontent.com/107124830/191340139-803a7809-6d14-4a8a-99f6-ef6b8e065f9a.png)
 
-### Hi there 👋 My name is Malika "Mimi" Franklin and I'm currently upskilling to become a Full Stack Software Engineer. I have been an SQL programmer and an Oracle DBA. I also have worked on the Mysql and Microsoft SQL Server. Some of the projects that I've worked on included building a frontnd GUI and backend database storage system for proprietary use for the employee's at BellSouth (now AT&T), and numerous projects throughout my software engineering journey. You can reach on 
-
-
-<!--
-**FullStackFranklin/FullStackFranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 My name is Malika "Mimi" Franklin and I'm currently upskilling to become a Full Stack Software Engineer. I have been an SQL programmer and an Oracle DBA. I also have worked on the Mysql and Microsoft SQL Server. Some of the projects that I've worked on included building a frontnd GUI and backend database storage system for proprietary use for the employee's at BellSouth (now AT&T), and numerous projects throughout my software engineering journey. 
 
 <h1> CODING LANGAUGES AND LIBRARIES </h1>
 ![image](https://user-images.githubusercontent.com/107124830/191343725-50f9b917-ed7f-4e7e-a09d-22e728cf73ff.png)
