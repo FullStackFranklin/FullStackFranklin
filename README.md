@@ -3,8 +3,9 @@
 ### Hi there 👋 My name is Malika "Mimi" Franklin and I'm currently upskilling to become a Full Stack Software Engineer. I have been an SQL programmer and an Oracle DBA. I also have worked on the Mysql and Microsoft SQL Server. Some of the projects that I've worked on included building a frontnd GUI and backend database storage system for proprietary use for the employee's at BellSouth (now AT&T), and numerous projects throughout my software engineering journey. 
 
 <h1> CODING LANGAUGES AND LIBRARIES </h1>
-![image](https://user-images.githubusercontent.com/107124830/191343725-50f9b917-ed7f-4e7e-a09d-22e728cf73ff.png)
-![image](https://user-images.githubusercontent.com/107124830/191343798-15a19396-fd67-49b9-91c3-1564184a9735.png)
+![image](https://user-images.githubusercontent.com/107124830/191344923-eeef1494-0bfc-4b31-bf27-5977538e2e9f.png)
+
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
